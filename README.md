@@ -90,8 +90,8 @@ Place them on a microSD card in the DFPlayer Mini.
 
 ## 📸 Demo & Media
 
-🎥 [Watch Demo Video](https://drive.google.com/file/d/17yBCKyNYap1QLPa7gMBgY3aImvxQN7o0/view?usp=drivesdk)  
-📷 [Project Images](https://photos.app.goo.gl/9i9Gb6RqzBN7b4bv9)
+🎥 [Watch Demo Video](https://drive.google.com/file/d/1bPQbc_6IUq-6yguOpEWpzUcPXFkNZBc1/view?usp=drive_link)  
+📷 [Project Images](assets/image)
 
 ---
 
